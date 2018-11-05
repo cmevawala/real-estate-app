@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import MainPage from './main-page';
+import MainPage from './main-page/index';
 
 import * as serviceWorker from './serviceWorker';
 
